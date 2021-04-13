@@ -2,7 +2,7 @@
 
 For SP Course
 
-Git clone,Go to the project's directory and Check this [documantation] to run the project.
+Git clone,install the dependencies from requirements.txt ,Go to the project's directory and Check this [documantation] to run the project.
 
 
 * username: admin 
